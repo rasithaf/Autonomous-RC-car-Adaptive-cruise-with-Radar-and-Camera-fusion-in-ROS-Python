@@ -1,6 +1,6 @@
 # Autonomous-RC-car-Adaptive-cruise-with-Radar-and-Camera-fusion-in-ROS-Python
 
-This project was built on Jetson Nano developer kit, RC Car, and Perception SSR 2.0 Radar.
+This project was built on Jetson Nano developer kit, RC Car, Logitech USB Cam and Perception SSR 2.0 Radar.
 
 I tested the project on the following environment: (If you are not using ROS environment, remove the ros commands in the code) 
 
