@@ -11,18 +11,29 @@ Numpy,
 OpenCV
 
 Camera:
-Used logitech usb cam
-It follows a Red dot
-Our RC car has steering angle range between 55 and 145
-wheel position: 55 -> left most, 100 -> straight, 145 -> right most
-frame has been segmented to 5 main positions
+
+• Used logitech usb cam
+
+• It follows a Red dot
+
+• Our RC car has steering angle range between 55 and 145
+
+• wheel position: 55 -> left most, 100 -> straight, 145 -> right most
+
+• frame has been segmented to 5 main positions
 
 Cruise:
-Used Perceptin Radar SSR 2.0 
-It tracks objects between -15 and 15 degrees
-Get the distance of the closest object in mentioned angle
-Get the relative speed of that object
-It determines pwm as prioratized
+
+• Used Perceptin Radar SSR 2.0 
+
+• It tracks objects between -15 and 15 degrees
+
+• Get the distance of the closest object in mentioned angle
+
+• Get the relative speed of that object
+
+• It determines pwm as prioratized
 
 Servo:
-Needs "adafruit_servokit" module
+
+• Needs "adafruit_servokit" module
