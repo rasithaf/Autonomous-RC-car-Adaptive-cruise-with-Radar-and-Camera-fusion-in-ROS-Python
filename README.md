@@ -40,4 +40,4 @@ Servo:
 
 Use https://github.com/rasithaf/Autonomous-Car-Obstacle-detection-and-avoidance-using-Radar/blob/master/README.md for Radar settings
 
-Output: See Adaptive cruise (Radar+Camera fusion) in https://rasithaf.wixsite.com/mysite/videos
+Output Video: See Adaptive cruise (Radar+Camera fusion) in https://rasithaf.wixsite.com/mysite/videos
